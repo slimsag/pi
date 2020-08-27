@@ -19,3 +19,8 @@ psk="YOUR_WIFI_PASSWORD"
 key_mgmt=WPA-PSK
 }
 ```
+
+## Hx711 load sensor (scale)
+
+- tutorial: https://tutorials-raspberrypi.com/digital-raspberry-pi-scale-weight-sensor-hx711/
+- 3d printable load cell mount: https://www.thingiverse.com/thing:2486831/comments
